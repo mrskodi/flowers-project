@@ -1,7 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Shippori+Mincho+B1:wght@400;600&family=Ubuntu:wght@300;500&display=swap');
+
 *,
 ::after,
 ::before {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(269, 100%, 95%);
+  font-family: 'Redressed', sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 2em auto;
+}
+
+.title {
+  color: hsl(336, 100%, 50%);
+}
+
+.title h1 {
+  font-size: 3rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+.underline {
+  margin: 0 auto;
+  width: 20%;
+  height: .25em;
+  margin-top: .5em;
+  background-color: hsl(336, 100%, 50%);
+}
+
+.filter {
+  padding: 1em;
+  text-align: center;
+}
+
+.btn {
+  border: none;
+  background-color: hsl(336, 100%, 50%);
+  padding: .5em 1.5em;
+  margin-right: .8em;
+  color: hsl(336, 100%, 95%);
+  font-family: 'ubuntu', sans-serif;
+  border-radius: .4em;
+  cursor: pointer;
+  border: 2px solid hsl(336, 100%, 50%);
+}
+
+.btn:hover,
+.btn:focus {
+  outline:none;
+  background-color: hsl(336, 100%, 95%);
+  color: hsl(336, 100%, 50%);
+}
+
+.btn:active {
+  transform: scale(.95);
+}
+
+.items-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2em;
+  /* border: 2px solid green; */
+}
+
+.flower {
+  width: 45%;
+  display: flex;
+  justify-content: space-around;
+  /* border: 1px solid green; */
+}
+
+.flower-img {
+  width: 100%;
+  padding: 1em;
+  /* border: 3px solid yellow; */
+}
+
+img {
+  width: 100%;
+  height: 15em;
+  object-fit: cover;
+}
+
+.flower-details {
+  padding: 1em;
+  /* border: 2px solid orangered; */
+}
+
+.flower-title {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.flower-price {
+  margin: .5em 0;
+  font-weight: bold;
+}
+
+.flower-desc {
+  font-size: 1.3rem;
 }
