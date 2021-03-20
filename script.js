@@ -5,7 +5,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 19.99,
     category: 'mixed',
-    img: '/images/MixedAssortment1.jpg'
+    img: 'images/MixedAssortment1.jpg'
   },
   {
     id: 102,
@@ -13,7 +13,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repelle!',
     price: 29.99,
     category: 'mixed',
-    img: '/images/MixedAssortment2.jpg'
+    img: 'images/MixedAssortment2.jpg'
   },
   {
     id: 103,
@@ -21,7 +21,7 @@ const flowers = [
     desc: 'Amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 25.49,
     category: 'mixed',
-    img: '/images/MixedAssortment3.jpg'
+    img: 'images/MixedAssortment3.jpg'
   },
   {
     id: 104,
@@ -29,7 +29,7 @@ const flowers = [
     desc: 'Sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 39.99,
     category: 'mixed',
-    img: '/images/MixedAssortment4.jpg'
+    img: 'images/MixedAssortment4.jpg'
   },
   {
     id: 105,
@@ -37,7 +37,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 25.99,
     category: 'mixed',
-    img: '/images/MixedAssortment5.jpg'
+    img: 'images/MixedAssortment5.jpg'
   },
   {
     id: 106,
@@ -45,7 +45,7 @@ const flowers = [
     desc: 'Lorem ipsum elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 39.99,
     category: 'mixed',
-    img: '/images/MixedAssortment6.jpg'
+    img: 'images/MixedAssortment6.jpg'
   },
   {
     id: 107,
@@ -53,7 +53,7 @@ const flowers = [
     desc: 'Lorem ipsum dolorsimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 19.99,
     category: 'redOrange',
-    img: '/images/RedOrange1.jpg'
+    img: 'images/RedOrange1.jpg'
   },
   {
     id: 108,
@@ -61,7 +61,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Andae praesentium dignissimos.',
     price: 39.99,
     category: 'redOrange',
-    img: '/images/RedOrange2.jpg'
+    img: 'images/RedOrange2.jpg'
   },
   {
     id: 109,
@@ -69,7 +69,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 19.99,
     category: 'redOrange',
-    img: '/images/RedOrange3.jpg'
+    img: 'images/RedOrange3.jpg'
   },
   {
     id: 110,
@@ -77,7 +77,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 19.99,
     category: 'redOrange',
-    img: '/images/RedOrange4.jpg'
+    img: 'images/RedOrange4.jpg'
   },
   {
     id: 111,
@@ -85,7 +85,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 19.99,
     category: 'tulips',
-    img: '/images/Tulips1.jpg'
+    img: 'images/Tulips1.jpg'
   },
   {
     id: 112,
@@ -93,7 +93,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 19.99,
     category: 'tulips',
-    img: '/images/Tulips2.jpg'
+    img: 'images/Tulips2.jpg'
   },
   {
     id: 113,
@@ -101,7 +101,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit cusandae praesentium dignissimos.',
     price: 19.99,
     category: 'tulips',
-    img: '/images/Tulips3.jpg'
+    img: 'images/Tulips3.jpg'
   },
   {
     id: 114,
@@ -109,7 +109,7 @@ const flowers = [
     desc: 'Lorem ipsum dolullam. Possimus provident architecto quisquam deleniti repellendus recusandae praesentium dignissimos.',
     price: 19.99,
     category: 'tulips',
-    img: '/images/Tulips4.jpg'
+    img: 'images/Tulips4.jpg'
   },
   {
     id: 115,
@@ -117,7 +117,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repelle!',
     price: 29.99,
     category: 'white',
-    img: '/images/White1.jpg'
+    img: 'images/White1.jpg'
   },
   {
     id: 116,
@@ -125,7 +125,7 @@ const flowers = [
     desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, reprehenderit ullam. Possimus provident architecto quisquam deleniti repelle!',
     price: 29.99,
     category: 'white',
-    img: '/images/White2.jpg'
+    img: 'images/White2.jpg'
   },
 ];
 
@@ -177,6 +177,7 @@ window.addEventListener('DOMContentLoaded', () => {
 // Looping the buttons and adding event listener
 
 function displayFlowers(flowerList) {
+  
   let dressedHtmlFlower = flowerList.map((flower) => {
     return `<article class="flower">
               <div class="flower-img">
